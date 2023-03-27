@@ -52,10 +52,10 @@ Our goal here is to run the exercises from the first part of the course on ARCHE
 * 09:30	[Data Analysis and Visualization in Python (continued)][1]
 * 11:00	Morning break
 * 11:30	[Python on ARCHER2][2]
-* 13:00	Lunch break
-* 14:00	[Python on ARCHER2 (continued)][2]
-* 15:30	Afternoon break
-* 16:00	[Python on ARCHER2 (continued)][2]
+* 12:45	Lunch break
+* 13:45	[Python on ARCHER2 (continued)][2]
+* 15:15	Afternoon break
+* 15:45	[Python on ARCHER2 (continued)][2]
 * 17:00	END
 
 ## Course requirements
