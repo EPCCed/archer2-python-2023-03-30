@@ -2,40 +2,60 @@
 
 <br /><br /><br /><br />
 
-# ARCHER2 course template (month YEAR)
+# ARCHER2 Data Analysis and Visualisation in Python on ARCHER2
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-Course description...
+30 - 31 March 2023, 09:30 - 17:00 BST
+
+Juan Herrera (EPCC), William Lucas (EPCC)
+
+## Outline
+
+Python is a general purpose programming language that is useful for writing scripts to work effectively and reproducibly with data.
+
+This is an introduction to Python designed for participants with no programming experience. This course covers:
+
+* Some basic information about Python syntax.
+* The Jupyter notebook interface.
+* How to import CSV files.
+* Using the Pandas package to work with data frames.
+* How to calculate summary information from a data frame.
+* Brief introduction to plotting.
+* How to work with databases directly from Python.
+
+During the first part of the course, we will use our workstation or laptop to run the exercises. On the second day, we will log in to ARCHER2 and learn how to use a supercomputer to run our Python scripts.
 
 ## Course timetable
 
-### Day 1
+### Thursday, 30th March 2023
 
- * 14:00 Welcome and overview
- * 14:10 [...]
- * 16:30 Close
+* 09:30 Setup and Intro
+* 09:40	Data Analysis and Visualization in Python
+* 11:00	Morning break
+* 11:30	Data Analysis and Visualization in Python (continued)
+* 13:00	Lunch break
+* 14:00	Data Analysis and Visualization in Python (continued)
+* 15:30	Afternoon break
+* 16:00	Data Analysis and Visualization in Python (continued)
+* 17:00	END
 
-### Day 2
+### Friday, 31st March 2023
 
-
- * 14:00 Welcome and recap
- * 14:10 [...]
- * 15:00 Break
- * 15:30 [...]
- * 16:30 Close
+* 09:30	Data Analysis and Visualization in Python (continued)
+* 11:00	Morning break
+* 11:30	Python on ARCHER2 (continued)
+* 13:00	Lunch break
+* 14:00	Python on ARCHER2 (continued)
+* 15:30	Afternoon break
+* 16:00	Python on ARCHER2 (continued)
+* 17:00	END
 
 ## Course requirements
 
-All attendees will need their own desktop or laptop.
+All attendees will need their own workstation or laptop.
 
-If you are logging on to an external system then you will need to have an ssh client installed which comes as default for Linux and Mac systems.
-
-Linux users should open a command-line terminal and use ssh from the command line.
-
-Mac can open the Mac termimal application and use ssh from the command line. However, to display graphics from Cirrus you will also need to install Xquartz. Xquartz provides its own terminal called “Xterm”: if you have problems displaying graphics when using the Mac terminal, try logging in using ssh from within this Xterm.
-
-Windows users should install MobaXterm which provides ssh access, a Unix graphics client and a drag-and-drop file browser.
+The Python setup instructions can be found at [the lesson setup site](https://datacarpentry.org/python-ecology-lesson/setup.html).
 
 ---
 
