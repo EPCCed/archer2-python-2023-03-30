@@ -2,15 +2,17 @@
 
 <br /><br /><br /><br />
 
-# ARCHER2 Data Analysis and Visualisation in Python on ARCHER2
+# Data Analysis and Visualisation in Python on ARCHER2
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 30 - 31 March 2023, 09:30 - 17:00 BST
 
-Juan Herrera (EPCC), William Lucas (EPCC)
+Juan Herrera, and William Lucas
 
-## Outline
+[EPCC, The University of Edinburgh](https://www.epcc.ed.ac.uk/)
+
+## Course description
 
 Python is a general purpose programming language that is useful for writing scripts to work effectively and reproducibly with data.
 
@@ -60,7 +62,7 @@ Our goal here is to run the exercises from the first part of the course on ARCHE
 
 ## Course requirements
 
-All attendees will need their own workstation or laptop. The Python setup instructions can be found at [the lesson setup site](https://datacarpentry.org/python-ecology-lesson/setup.html).
+All attendees will need their own workstation or laptop. The Python setup instructions can be found at [the lesson setup site](https://datacarpentry.org/python-ecology-lesson/setup.html). Please try to complete [the ARCHER2 setup tasks](https://epcced.github.io/archer2-python-data-analysis/setup.html) ahead of the lesson.
 
 ---
 
